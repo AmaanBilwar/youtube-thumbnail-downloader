@@ -4,7 +4,7 @@ A simple web application built with Flask that allows users to download thumbnai
 
 **Try the application out here**
 
-(Youtube Thumbnail Downloader)[https://youtube-thumbnail-downloader-3l2y.onrender.com/]
+[Youtube Thumbnail Downloader](https://youtube-thumbnail-downloader-3l2y.onrender.com/)
 
 
 ## Prerequisites
