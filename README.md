@@ -4,6 +4,8 @@ A simple web application built with Flask that allows users to download thumbnai
 
 **Try the application out here**
 
+(Youtube Thumbnail Downloader)[]
+
 
 ## Prerequisites
 - Python 3.7+
